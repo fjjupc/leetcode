@@ -1,1 +1,1 @@
-My Answer to leetcode with C and PYTHON.
+My Answer to leetcode with PYTHON.
